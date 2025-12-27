@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Procuração",
+  "description": "Um aplicativo para gerar documentos de procuração a partir de dados de uma planilha do Excel. Importe um arquivo .xlsx, selecione um registro e imprima o documento formatado.",
+  "requestFramePermissions": []
+}
